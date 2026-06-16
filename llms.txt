@@ -1,0 +1,43 @@
+# Geotechnik — Lüneburg
+
+> Geotechnical engineering services in Lüneburg, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://luneburg.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://luneburg.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://luneburg.geotechnik.sbs/aushub-monitoring/)
+- [Bodenverbesserung](https://luneburg.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://luneburg.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://luneburg.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://luneburg.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://luneburg.geotechnik.sbs/erdbebenisolierung/)
+- [Fundamente](https://luneburg.geotechnik.sbs/fundamente/)
+- [Geophysik](https://luneburg.geotechnik.sbs/geophysik/)
+- [Grundungen](https://luneburg.geotechnik.sbs/grundungen/)
+- [Hange](https://luneburg.geotechnik.sbs/hange/)
+- [Labor](https://luneburg.geotechnik.sbs/labor/)
+- [Labor In Situ](https://luneburg.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://luneburg.geotechnik.sbs/masw/)
+- [Pfahle](https://luneburg.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://luneburg.geotechnik.sbs/plattendruckversuch/)
+- [Sandkegel Dichte](https://luneburg.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://luneburg.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://luneburg.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://luneburg.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://luneburg.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://luneburg.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://luneburg.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://luneburg.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://luneburg.geotechnik.sbs/strassenbau/)
+- [Triaxialversuch](https://luneburg.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://luneburg.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://luneburg.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://luneburg.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://luneburg.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://luneburg.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Lüneburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
